@@ -6,11 +6,6 @@ This project demonstrates strong **frontend development + data analysis logic** 
 
 ---
 
-## 🚀 Live Demo
-(Optional: Add GitHub Pages link here)
-
----
-
 ## 🎯 Project Objective
 To design a professional, product-style analytics dashboard that:
 - Accepts CSV data input
@@ -56,4 +51,6 @@ To design a professional, product-style analytics dashboard that:
 
 ---
 
-## 📁 Project Structure
+## Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5fe61041-40a9-4ee4-957d-850439733fd1" />
+
